@@ -1,3 +1,5 @@
+<?php // Don't copy the php tag.
+
 /**
  * My newly created function to determine if blocks should show.
  *
